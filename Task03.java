@@ -20,5 +20,5 @@ public class Task03 {
     public static void main(String[] args) {
         System.out.println("Сделаю на досуге и дошлю, ибо 2 часа ночи почти.");
     }
-
 }
+

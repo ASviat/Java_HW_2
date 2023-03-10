@@ -56,3 +56,4 @@ public class Task02 {
         return array;
     }
 }
+

@@ -48,5 +48,5 @@ public class Task04 {
         }
         logger.info("Результат предоставлен.");
     }
-    
+
 }
